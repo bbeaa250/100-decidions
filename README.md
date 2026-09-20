@@ -1,3 +1,2 @@
-# 100 Decisions Review
-
-Financial crime-scene review app with 100 decision records.
+# 100 Decisions ReviewFinancial crime-scene review app with 100 decision records.
+Deployment configuration updated.
