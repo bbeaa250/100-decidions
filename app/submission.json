@@ -440,7 +440,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Insurance movement.",
-      "answer": "Resolve according to the strongest available evidence and reject unsupported management labels.",
+      "answer": "Recognize EUR4,000 insurance expense and EUR8,000 closing prepaid insurance from the opening EUR12,000 prepaid balance.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -699,14 +699,14 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Physical product materials consumed.",
-      "answer": "Use EUR396,000 reconciled physical-material COGS; disclose EUR9,000 variance against EUR405,000 direct-use evidence.",
+      "answer": "Use EUR405,000 materials COGS per the supplied inventory roll-forward; closing good inventory is EUR112,000.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
         "11 Evidence Received After Takeover.pdf"
       ],
       "confidence": "medium",
-      "aiProposal": "Use EUR396,000 reconciled physical-material COGS; disclose EUR9,000 variance against EUR405,000 direct-use evidence.",
+      "aiProposal": "Use EUR405,000 materials COGS per the supplied inventory roll-forward; closing good inventory is EUR112,000.",
       "independentChallenge": "Independent review challenged management labels and required reconciliation to bank, signed contracts, third-party confirmations and physical count. Conflicting evidence remains disclosed.",
       "studentReasoning": "I certified the treatment that best matches the strongest evidence at 31 August 2026. Lower-reliability spreadsheets and messages do not override external confirmations.",
       "statementEffect": {
@@ -921,7 +921,7 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Insurance consumed.",
-      "answer": "Resolve according to the strongest available evidence and reject unsupported management labels.",
+      "answer": "Use EUR182,000 opening equity, including the omitted EUR12,000 opening prepaid insurance asset.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1215,14 +1215,14 @@
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Closing inventory and document the basis.",
-      "answer": "Use EUR121,000 closing good inventory from physical count.",
+      "answer": "Use EUR112,000 closing inventory from the supplied inventory roll-forward reconciliation.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
         "11 Evidence Received After Takeover.pdf"
       ],
       "confidence": "medium",
-      "aiProposal": "Use EUR121,000 closing good inventory from physical count.",
+      "aiProposal": "Use EUR112,000 closing inventory from the supplied inventory roll-forward reconciliation.",
       "independentChallenge": "Independent review challenged management labels and required reconciliation to bank, signed contracts, third-party confirmations and physical count. Conflicting evidence remains disclosed.",
       "studentReasoning": "I certified the treatment that best matches the strongest evidence at 31 August 2026. Lower-reliability spreadsheets and messages do not override external confirmations.",
       "statementEffect": {
@@ -1265,7 +1265,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Insurance expense and document the basis.",
-      "answer": "No insurance amount is booked without source evidence; flag for follow-up.",
+      "answer": "Recognize EUR4,000 insurance expense and EUR8,000 closing prepaid insurance from the opening EUR12,000 prepaid balance.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1369,7 +1369,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Physical COGS and document the basis.",
-      "answer": "Use EUR396,000 reconciled physical COGS and disclose EUR9,000 variance.",
+      "answer": "Use EUR405,000 materials COGS and EUR112,000 closing inventory so the inventory roll-forward agrees.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1408,7 +1408,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Net profit and document the basis.",
-      "answer": "Use EUR86,000 reconstructed net profit before unsupported insurance.",
+      "answer": "Use EUR73,000 reconstructed net profit after EUR4,000 insurance expense and EUR9,000 additional materials COGS.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1631,10 +1631,10 @@
       "opening": 80000,
       "purchases": 459000,
       "directEvidenceCOGS": 405000,
-      "reconciledCOGS": 396000,
-      "closingGoodInventory": 121000,
+      "reconciledCOGS": 405000,
+      "closingGoodInventory": 112000,
       "damagedWriteOff": 22000,
-      "variance": 9000
+      "variance": 0
     },
     "payroll": {
       "expense": 248000,
@@ -1656,16 +1656,22 @@
     },
     "equity": {
       "ownerDistributions": 110000,
-      "closingEquity": 134000
+      "closingEquity": 133000,
+      "openingEquity": 182000
+    },
+    "insurance": {
+      "openingPrepaid": 12000,
+      "expense": 4000,
+      "closingPrepaid": 8000
     }
   },
   "statements": {
     "profitAndLoss": {
       "revenue": 960000,
-      "cogs": 476000,
-      "grossProfit": 484000,
-      "operatingExpenses": 398000,
-      "netProfit": 86000
+      "cogs": 485000,
+      "grossProfit": 475000,
+      "operatingExpenses": 402000,
+      "netProfit": 73000
     },
     "cashFlow": {
       "openingCash": 80000,
@@ -1678,12 +1684,13 @@
     "balanceSheet": {
       "cash": 60000,
       "receivables": 168000,
-      "inventory": 121000,
+      "inventory": 112000,
       "netPPE": 191000,
-      "totalAssets": 540000,
+      "totalAssets": 539000,
       "totalLiabilities": 406000,
-      "equity": 134000,
-      "balanceCheck": 0
+      "equity": 133000,
+      "balanceCheck": 0,
+      "prepaidInsurance": 8000
     }
   },
   "reconciliations": [
@@ -1699,19 +1706,19 @@
     },
     {
       "name": "Inventory and COGS",
-      "status": "review",
-      "amount": 9000
+      "status": "pass",
+      "amount": 0
     },
     {
       "name": "Opening equity bridge",
-      "status": "review",
-      "amount": 48000
+      "status": "pass",
+      "amount": 0
     }
   ],
   "uncertainties": [
-    "EUR9,000 inventory/COGS variance between direct-use evidence and physical roll-forward.",
-    "EUR48,000 opening-equity bridge because opening balances are incomplete.",
-    "Insurance evidence and any related prepaid/expense balance were not supplied."
+    "Insurance balance is now reconciled: EUR12,000 opening prepaid, EUR4,000 expense and EUR8,000 closing prepaid.",
+    "Inventory roll-forward now agrees at EUR405,000 materials COGS and EUR112,000 closing inventory.",
+    "Any further opening-balance support should be retained with the working papers."
   ],
   "boardRecommendation": {
     "recommendation": "Approve corrected accounts only with the two reconciliation items disclosed and investigated. Do not use management profit for earn-out or valuation. Freeze owner-card access, reclassify deposits and borrowing, record provisions/write-offs, and implement weekly cash forecasting."
