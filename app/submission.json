@@ -540,7 +540,7 @@
       "confidence": "medium",
       "aiProposal": "Classify September deposits as contract liabilities.",
       "independentChallenge": "Signed September contracts show EUR60,000 and EUR30,000 deposits for undelivered work; bank confirms receipt, so revenue is deferred.",
-      "studentReasoning": "I compared the classify september customer deposits to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
+      "studentReasoning": "The signed September contracts are undelivered at 31 August and the bank shows EUR90,000 received; I therefore deferred revenue and recorded the original cash/liability transaction.",
       "statementEffect": {
         "profit": 0,
         "cash": 90000,
@@ -548,7 +548,9 @@
         "liabilities": 90000,
         "equity": 0
       },
-      "changedFromAI": true
+      "changedFromAI": true,
+      "effectBasis": "original transaction",
+      "effectNarrative": "This is the original transaction. Effect: profit EUR0, cash EUR90,000, total assets EUR90,000, liabilities EUR90,000, and equity EUR0."
     },
     {
       "id": "D042",
@@ -564,7 +566,7 @@
       "confidence": "medium",
       "aiProposal": "Classify new bank borrowing as debt and financing cash flow.",
       "independentChallenge": "The loan agreement and bank credit identify EUR50,000 as borrowing; it increases cash and debt, not income.",
-      "studentReasoning": "I compared the classify new bank borrowing to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
+      "studentReasoning": "The loan agreement and bank credit identify EUR50,000 financing; I recorded the original cash inflow and debt, with no profit effect.",
       "statementEffect": {
         "profit": 0,
         "cash": 50000,
@@ -572,7 +574,9 @@
         "liabilities": 50000,
         "equity": 0
       },
-      "changedFromAI": true
+      "changedFromAI": true,
+      "effectBasis": "original transaction",
+      "effectNarrative": "This is the original transaction. Effect: profit EUR0, cash EUR50,000, total assets EUR50,000, liabilities EUR50,000, and equity EUR0."
     },
     {
       "id": "D043",
@@ -588,15 +592,17 @@
       "confidence": "medium",
       "aiProposal": "Capitalize Pack-O-Matic EUR60,000 as PPE.",
       "independentChallenge": "The Pack-O-Matic invoice and commissioning evidence show a EUR60,000 machine available for use; capitalize it and depreciate prospectively.",
-      "studentReasoning": "I compared the classify packaging machine to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
+      "studentReasoning": "The Pack-O-Matic invoice and commissioning record show a machine placed in service; I treated the original EUR60,000 cash purchase as PPE, so cash falls while total assets stay unchanged.",
       "statementEffect": {
         "profit": 0,
         "cash": -60000,
-        "assets": 60000,
+        "assets": 0,
         "liabilities": 0,
         "equity": 0
       },
-      "changedFromAI": true
+      "changedFromAI": true,
+      "effectBasis": "original transaction",
+      "effectNarrative": "This is the original transaction. Effect: profit EUR0, cash -EUR60,000, total assets EUR0, liabilities EUR0, and equity EUR0."
     },
     {
       "id": "D044",
@@ -612,15 +618,17 @@
       "confidence": "medium",
       "aiProposal": "Capitalize Photo Booth EUR20,000 as PPE.",
       "independentChallenge": "The EUR20,000 photo-booth invoice documents a separately identifiable asset available for use; capitalize rather than expense.",
-      "studentReasoning": "I compared the classify photo booth to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
+      "studentReasoning": "The photo-booth invoice identifies a separate asset available for use; I treated the original EUR20,000 purchase as an asset exchange, not an expense or increase in total assets.",
       "statementEffect": {
         "profit": 0,
         "cash": -20000,
-        "assets": 20000,
+        "assets": 0,
         "liabilities": 0,
         "equity": 0
       },
-      "changedFromAI": true
+      "changedFromAI": true,
+      "effectBasis": "original transaction",
+      "effectNarrative": "This is the original transaction. Effect: profit EUR0, cash -EUR20,000, total assets EUR0, liabilities EUR0, and equity EUR0."
     },
     {
       "id": "D045",
@@ -636,15 +644,17 @@
       "confidence": "medium",
       "aiProposal": "Expense EUR10,000 belt, cleaning and calibration as repairs.",
       "independentChallenge": "The EUR10,000 belt, cleaning and calibration restored normal operation and is not an enhancement, so it is repair expense.",
-      "studentReasoning": "I compared the classify machine belt and calibration to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
+      "studentReasoning": "The belt, cleaning and calibration documents describe restoration of existing capacity; I expensed the original EUR10,000 repair and reduced cash, total assets and equity by that amount.",
       "statementEffect": {
         "profit": -10000,
         "cash": -10000,
-        "assets": 0,
+        "assets": -10000,
         "liabilities": 0,
         "equity": -10000
       },
-      "changedFromAI": true
+      "changedFromAI": true,
+      "effectBasis": "original transaction",
+      "effectNarrative": "This is the original transaction. Effect: profit -EUR10,000, cash -EUR10,000, total assets -EUR10,000, liabilities EUR0, and equity -EUR10,000."
     },
     {
       "id": "D046",
@@ -660,7 +670,7 @@
       "confidence": "medium",
       "aiProposal": "Classify EUR70,000 villa deposit as owner distribution.",
       "independentChallenge": "Bank and owner evidence identify the EUR70,000 villa deposit as personal; it is an owner distribution, not marketing.",
-      "studentReasoning": "I compared the classify owner villa deposit to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
+      "studentReasoning": "Bank and owner evidence link the EUR70,000 villa payment to personal use; I corrected the draft classification from marketing to owner distribution.",
       "statementEffect": {
         "profit": 0,
         "cash": -70000,
@@ -668,7 +678,9 @@
         "liabilities": 0,
         "equity": -70000
       },
-      "changedFromAI": true
+      "changedFromAI": true,
+      "effectBasis": "correction",
+      "effectNarrative": "This is the correction. Effect: profit EUR0, cash -EUR70,000, total assets -EUR70,000, liabilities EUR0, and equity -EUR70,000."
     },
     {
       "id": "D047",
@@ -684,7 +696,7 @@
       "confidence": "medium",
       "aiProposal": "Classify EUR40,000 owner-card spending as owner distribution.",
       "independentChallenge": "The EUR40,000 owner-card spend lacks business support and matches personal use; reclassify it to owner distribution.",
-      "studentReasoning": "I compared the classify owner card spending to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
+      "studentReasoning": "The EUR40,000 card spend has no business support and matches personal use; I corrected it to an owner distribution rather than a business expense.",
       "statementEffect": {
         "profit": 0,
         "cash": -40000,
@@ -692,7 +704,9 @@
         "liabilities": 0,
         "equity": -40000
       },
-      "changedFromAI": true
+      "changedFromAI": true,
+      "effectBasis": "correction",
+      "effectNarrative": "This is the correction. Effect: profit EUR0, cash -EUR40,000, total assets -EUR40,000, liabilities EUR0, and equity -EUR40,000."
     },
     {
       "id": "D048",
@@ -708,15 +722,17 @@
       "confidence": "medium",
       "aiProposal": "Use EUR405,000 materials COGS per the supplied inventory roll-forward; closing good inventory is EUR112,000.",
       "independentChallenge": "The inventory roll-forward supports EUR405,000 materials consumed and EUR112,000 closing good inventory; use that reconciled schedule.",
-      "studentReasoning": "I compared the classify physical product materials consumed to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
+      "studentReasoning": "The inventory roll-forward and purchase invoices support EUR405,000 materials COGS and EUR112,000 good stock; I recorded the EUR9,000 correction from the prior EUR396,000/121,000 draft, not a new gain.",
       "statementEffect": {
-        "profit": -405000,
+        "profit": -9000,
         "cash": 0,
-        "assets": 112000,
+        "assets": -9000,
         "liabilities": 0,
-        "equity": -405000
+        "equity": -9000
       },
-      "changedFromAI": true
+      "changedFromAI": true,
+      "effectBasis": "correction",
+      "effectNarrative": "This is the correction. Effect: profit -EUR9,000, cash EUR0, total assets -EUR9,000, liabilities EUR0, and equity -EUR9,000."
     },
     {
       "id": "D049",
@@ -732,15 +748,17 @@
       "confidence": "medium",
       "aiProposal": "Classify EUR80,000 event staff as direct service COGS.",
       "independentChallenge": "Event-delivery payroll is directly traceable to completed events; EUR80,000 is service COGS, included in total payroll expense.",
-      "studentReasoning": "I compared the classify event staff payroll to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
+      "studentReasoning": "Event timesheets tie EUR80,000 payroll to delivered events; I classified the original cost as direct service COGS, reducing cash and total assets as paid.",
       "statementEffect": {
         "profit": -80000,
         "cash": -80000,
-        "assets": 0,
+        "assets": -80000,
         "liabilities": 0,
         "equity": -80000
       },
-      "changedFromAI": true
+      "changedFromAI": true,
+      "effectBasis": "original transaction",
+      "effectNarrative": "This is the original transaction. Effect: profit -EUR80,000, cash -EUR80,000, total assets -EUR80,000, liabilities EUR0, and equity -EUR80,000."
     },
     {
       "id": "D050",
@@ -834,7 +852,7 @@
       "confidence": "medium",
       "aiProposal": "Recognize EUR24,000 period depreciation.",
       "independentChallenge": "The asset register supports EUR24,000 period depreciation on the EUR260,000 closing cost base; reduce net PPE and profit.",
-      "studentReasoning": "I compared the classify depreciation to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
+      "studentReasoning": "The fixed-asset register supports EUR24,000 period depreciation; I recorded the non-cash correction that reduces total assets, profit and equity.",
       "statementEffect": {
         "profit": -24000,
         "cash": 0,
@@ -842,7 +860,9 @@
         "liabilities": 0,
         "equity": -24000
       },
-      "changedFromAI": true
+      "changedFromAI": true,
+      "effectBasis": "correction",
+      "effectNarrative": "This is the correction. Effect: profit -EUR24,000, cash EUR0, total assets -EUR24,000, liabilities EUR0, and equity -EUR24,000."
     },
     {
       "id": "D057",
@@ -858,7 +878,7 @@
       "confidence": "medium",
       "aiProposal": "Recognize EUR18,000 bad-debt write-off.",
       "independentChallenge": "R-17 liquidation evidence makes the EUR18,000 receivable unrecoverable; write it off against profit and receivables.",
-      "studentReasoning": "I compared the classify bad receivable to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
+      "studentReasoning": "The R-17 liquidation notice shows no recovery for EUR18,000; I corrected the receivable and profit by writing it off, with no cash movement.",
       "statementEffect": {
         "profit": -18000,
         "cash": 0,
@@ -866,7 +886,9 @@
         "liabilities": 0,
         "equity": -18000
       },
-      "changedFromAI": true
+      "changedFromAI": true,
+      "effectBasis": "correction",
+      "effectNarrative": "This is the correction. Effect: profit -EUR18,000, cash EUR0, total assets -EUR18,000, liabilities EUR0, and equity -EUR18,000."
     },
     {
       "id": "D058",
@@ -882,7 +904,7 @@
       "confidence": "medium",
       "aiProposal": "Recognize EUR22,000 damaged inventory write-off.",
       "independentChallenge": "Warehouse evidence confirms EUR22,000 water-damaged stock is unsaleable with no recoverable value; write it down fully.",
-      "studentReasoning": "I compared the classify damaged stock to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
+      "studentReasoning": "The warehouse count and disposal evidence show EUR22,000 of stock is unsaleable; I corrected inventory and profit for the write-off, not a cash purchase.",
       "statementEffect": {
         "profit": -22000,
         "cash": 0,
@@ -890,7 +912,9 @@
         "liabilities": 0,
         "equity": -22000
       },
-      "changedFromAI": true
+      "changedFromAI": true,
+      "effectBasis": "correction",
+      "effectNarrative": "This is the correction. Effect: profit -EUR22,000, cash EUR0, total assets -EUR22,000, liabilities EUR0, and equity -EUR22,000."
     },
     {
       "id": "D059",
@@ -906,7 +930,7 @@
       "confidence": "medium",
       "aiProposal": "Recognize EUR25,000 legal provision.",
       "independentChallenge": "Legal correspondence makes the employee claim probable and the best estimate is EUR25,000 within the EUR20,000–30,000 range.",
-      "studentReasoning": "I compared the classify probable legal claim to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
+      "studentReasoning": "Legal correspondence makes the employee claim probable and supports EUR25,000 as the best estimate; I recorded the correction as a liability and expense with no asset or cash entry.",
       "statementEffect": {
         "profit": -25000,
         "cash": 0,
@@ -914,7 +938,9 @@
         "liabilities": 25000,
         "equity": -25000
       },
-      "changedFromAI": true
+      "changedFromAI": true,
+      "effectBasis": "correction",
+      "effectNarrative": "This is the correction. Effect: profit -EUR25,000, cash EUR0, total assets EUR0, liabilities EUR25,000, and equity -EUR25,000."
     },
     {
       "id": "D060",
@@ -982,15 +1008,17 @@
       "confidence": "medium",
       "aiProposal": "Recognize NorthStar delivery revenue at acceptance on 12 February.",
       "independentChallenge": "Signed acceptance dated 12 February supports EUR180,000 NorthStar revenue; the bank receipt confirms collection.",
-      "studentReasoning": "I compared the classify delivered northstar contract to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
+      "studentReasoning": "Signed acceptance dated 12 February establishes delivery of the EUR180,000 NorthStar contract and the bank confirms collection; I recognized the original revenue/cash transaction.",
       "statementEffect": {
         "profit": 180000,
         "cash": 180000,
-        "assets": 0,
+        "assets": 180000,
         "liabilities": 0,
         "equity": 180000
       },
-      "changedFromAI": true
+      "changedFromAI": true,
+      "effectBasis": "original transaction",
+      "effectNarrative": "This is the original transaction. Effect: profit EUR180,000, cash EUR180,000, total assets EUR180,000, liabilities EUR0, and equity EUR180,000."
     },
     {
       "id": "D065",
@@ -1006,15 +1034,17 @@
       "confidence": "medium",
       "aiProposal": "Recognize Freedom delivery revenue; retain EUR58,000 receivable.",
       "independentChallenge": "Freedom acceptance supports EUR200,000 revenue; EUR142,000 is collected and EUR58,000 remains a receivable.",
-      "studentReasoning": "I compared the classify delivered freedom contract to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
+      "studentReasoning": "Freedom acceptance establishes EUR200,000 delivered revenue; EUR142,000 is cash and EUR58,000 is receivable, so total assets increase by the full contract value.",
       "statementEffect": {
         "profit": 200000,
         "cash": 142000,
-        "assets": 58000,
+        "assets": 200000,
         "liabilities": 0,
         "equity": 200000
       },
-      "changedFromAI": true
+      "changedFromAI": true,
+      "effectBasis": "original transaction",
+      "effectNarrative": "This is the original transaction. Effect: profit EUR200,000, cash EUR142,000, total assets EUR200,000, liabilities EUR0, and equity EUR200,000."
     },
     {
       "id": "D066",
@@ -1030,15 +1060,17 @@
       "confidence": "medium",
       "aiProposal": "Recognize Phoenix event revenue when completed and accepted.",
       "independentChallenge": "Completion and acceptance evidence supports EUR100,000 Phoenix revenue; EUR70,000 is collected and EUR30,000 remains receivable.",
-      "studentReasoning": "I compared the classify completed phoenix event to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
+      "studentReasoning": "Completion and acceptance evidence establish the EUR100,000 Phoenix event; EUR70,000 is cash and EUR30,000 is receivable, so I recorded the full original revenue transaction.",
       "statementEffect": {
         "profit": 100000,
         "cash": 70000,
-        "assets": 30000,
+        "assets": 100000,
         "liabilities": 0,
         "equity": 100000
       },
-      "changedFromAI": true
+      "changedFromAI": true,
+      "effectBasis": "original transaction",
+      "effectNarrative": "This is the original transaction. Effect: profit EUR100,000, cash EUR70,000, total assets EUR100,000, liabilities EUR0, and equity EUR100,000."
     },
     {
       "id": "D067",
@@ -1054,15 +1086,17 @@
       "confidence": "medium",
       "aiProposal": "Recognize Liberty delivered revenue; retain EUR25,000 receivable.",
       "independentChallenge": "Liberty delivery evidence supports EUR120,000 revenue; EUR95,000 is collected and EUR25,000 remains receivable.",
-      "studentReasoning": "I compared the classify delivered liberty order to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
+      "studentReasoning": "Liberty delivery evidence establishes EUR120,000 revenue; EUR95,000 is collected and EUR25,000 remains receivable, so total assets increase by EUR120,000.",
       "statementEffect": {
         "profit": 120000,
         "cash": 95000,
-        "assets": 25000,
+        "assets": 120000,
         "liabilities": 0,
         "equity": 120000
       },
-      "changedFromAI": true
+      "changedFromAI": true,
+      "effectBasis": "original transaction",
+      "effectNarrative": "This is the original transaction. Effect: profit EUR120,000, cash EUR95,000, total assets EUR120,000, liabilities EUR0, and equity EUR120,000."
     },
     {
       "id": "D068",
@@ -1078,7 +1112,7 @@
       "confidence": "medium",
       "aiProposal": "Hold EUR90,000 September event deposits as liabilities.",
       "independentChallenge": "The two September events were not delivered by 31 August; retain EUR90,000 as customer-deposit liability.",
-      "studentReasoning": "I compared the classify undelivered september events to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
+      "studentReasoning": "The two September events were not delivered by the reporting date; I kept the original EUR90,000 receipts as contract liabilities rather than current revenue.",
       "statementEffect": {
         "profit": 0,
         "cash": 90000,
@@ -1086,7 +1120,9 @@
         "liabilities": 90000,
         "equity": 0
       },
-      "changedFromAI": true
+      "changedFromAI": true,
+      "effectBasis": "original transaction",
+      "effectNarrative": "This is the original transaction. Effect: profit EUR0, cash EUR90,000, total assets EUR90,000, liabilities EUR90,000, and equity EUR0."
     },
     {
       "id": "D069",
@@ -1128,7 +1164,7 @@
       "confidence": "medium",
       "aiProposal": "Use EUR18,000 closing bad-debt write-off.",
       "independentChallenge": "Post-takeover evidence confirms R-17 liquidation and no recovery; the quantified write-off is EUR18,000.",
-      "studentReasoning": "I compared the estimate closing bad-debt allowance/write-off and document the basis to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
+      "studentReasoning": "Post-takeover liquidation evidence confirms the EUR18,000 R-17 balance is unrecoverable; this is a correction to receivables, profit and equity with no cash effect.",
       "statementEffect": {
         "profit": -18000,
         "cash": 0,
@@ -1136,7 +1172,9 @@
         "liabilities": 0,
         "equity": -18000
       },
-      "changedFromAI": true
+      "changedFromAI": true,
+      "effectBasis": "correction",
+      "effectNarrative": "This is the correction. Effect: profit -EUR18,000, cash EUR0, total assets -EUR18,000, liabilities EUR0, and equity -EUR18,000."
     },
     {
       "id": "D072",
@@ -1152,7 +1190,7 @@
       "confidence": "medium",
       "aiProposal": "Use EUR22,000 damaged-stock write-off.",
       "independentChallenge": "The warehouse count and disposal evidence quantify the damaged-stock loss at EUR22,000 with nil recoverable value.",
-      "studentReasoning": "I compared the estimate damaged inventory write-off and document the basis to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
+      "studentReasoning": "The physical count and disposal evidence quantify EUR22,000 damaged stock at nil recovery; this correction reduces inventory, profit and equity, not cash.",
       "statementEffect": {
         "profit": -22000,
         "cash": 0,
@@ -1160,7 +1198,9 @@
         "liabilities": 0,
         "equity": -22000
       },
-      "changedFromAI": true
+      "changedFromAI": true,
+      "effectBasis": "correction",
+      "effectNarrative": "This is the correction. Effect: profit -EUR22,000, cash EUR0, total assets -EUR22,000, liabilities EUR0, and equity -EUR22,000."
     },
     {
       "id": "D073",
@@ -1176,7 +1216,7 @@
       "confidence": "medium",
       "aiProposal": "Use EUR25,000 legal provision.",
       "independentChallenge": "The probable employee claim is best estimated at EUR25,000; recognize a provision pending settlement.",
-      "studentReasoning": "I compared the estimate legal provision and document the basis to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
+      "studentReasoning": "The legal file supports a probable EUR25,000 employee claim; this correction recognizes the provision and expense before settlement, with no current cash or asset effect.",
       "statementEffect": {
         "profit": -25000,
         "cash": 0,
@@ -1184,7 +1224,9 @@
         "liabilities": 25000,
         "equity": -25000
       },
-      "changedFromAI": true
+      "changedFromAI": true,
+      "effectBasis": "correction",
+      "effectNarrative": "This is the correction. Effect: profit -EUR25,000, cash EUR0, total assets EUR0, liabilities EUR25,000, and equity -EUR25,000."
     },
     {
       "id": "D074",
@@ -1200,7 +1242,7 @@
       "confidence": "medium",
       "aiProposal": "Use EUR24,000 period depreciation.",
       "independentChallenge": "The asset schedule supports EUR24,000 depreciation for the period, reducing PPE and retained earnings without cash movement.",
-      "studentReasoning": "I compared the estimate period depreciation and document the basis to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
+      "studentReasoning": "The asset schedule supports EUR24,000 depreciation for the period; this non-cash correction reduces PPE, profit and equity.",
       "statementEffect": {
         "profit": -24000,
         "cash": 0,
@@ -1208,7 +1250,9 @@
         "liabilities": 0,
         "equity": -24000
       },
-      "changedFromAI": true
+      "changedFromAI": true,
+      "effectBasis": "correction",
+      "effectNarrative": "This is the correction. Effect: profit -EUR24,000, cash EUR0, total assets -EUR24,000, liabilities EUR0, and equity -EUR24,000."
     },
     {
       "id": "D075",
@@ -1224,15 +1268,17 @@
       "confidence": "medium",
       "aiProposal": "Use EUR112,000 closing inventory from the supplied inventory roll-forward reconciliation.",
       "independentChallenge": "Opening EUR80,000 plus EUR459,000 purchases less EUR405,000 materials COGS less EUR22,000 damaged stock gives EUR112,000 good inventory.",
-      "studentReasoning": "I compared the estimate closing inventory and document the basis to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
+      "studentReasoning": "Opening stock of EUR80,000 plus EUR459,000 purchases less EUR405,000 COGS and EUR22,000 damaged stock gives EUR112,000; I corrected the draft closing balance from EUR121,000, not created a gain.",
       "statementEffect": {
-        "profit": -405000,
+        "profit": -9000,
         "cash": 0,
-        "assets": 112000,
+        "assets": -9000,
         "liabilities": 0,
-        "equity": -405000
+        "equity": -9000
       },
-      "changedFromAI": true
+      "changedFromAI": true,
+      "effectBasis": "correction",
+      "effectNarrative": "This is the correction. Effect: profit -EUR9,000, cash EUR0, total assets -EUR9,000, liabilities EUR0, and equity -EUR9,000."
     },
     {
       "id": "D076",
@@ -1443,7 +1489,7 @@
       "confidence": "medium",
       "aiProposal": "Approve corrected accounts only with inventory and opening-equity issues disclosed.",
       "independentChallenge": "Approve only after the corrected EUR73,000 operating profit, EUR61,000 net profit and reconciled EUR133,000 closing equity are disclosed.",
-      "studentReasoning": "I compared the approve corrected accounts before valuation to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
+      "studentReasoning": "Because the reconciliations now show EUR73,000 operating profit, EUR61,000 net profit and EUR133,000 closing equity, I made approval conditional on transparent disclosure; this board decision has no direct statement effect.",
       "statementEffect": {
         "profit": 0,
         "cash": 0,
@@ -1451,7 +1497,9 @@
         "liabilities": 0,
         "equity": 0
       },
-      "changedFromAI": true
+      "changedFromAI": true,
+      "effectBasis": "board decision; no direct statement effect",
+      "effectNarrative": "This is the board decision; no direct statement effect. Effect: profit EUR0, cash EUR0, total assets EUR0, liabilities EUR0, and equity EUR0."
     },
     {
       "id": "D092",
@@ -1571,7 +1619,7 @@
       "confidence": "medium",
       "aiProposal": "Do not use EUR312,000 claimed management profit for earn-out.",
       "independentChallenge": "The unsupported management figure of EUR312,000 conflicts with bank, contract and liability evidence; use corrected EUR61,000 net profit for valuation.",
-      "studentReasoning": "I compared the use claimed management profit for earn-out to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
+      "studentReasoning": "The EUR312,000 management claim conflicts with bank, contract and liability evidence; I excluded it from valuation and used EUR61,000 corrected net profit, with no direct statement entry.",
       "statementEffect": {
         "profit": 0,
         "cash": 0,
@@ -1579,7 +1627,9 @@
         "liabilities": 0,
         "equity": 0
       },
-      "changedFromAI": true
+      "changedFromAI": true,
+      "effectBasis": "valuation decision; no direct statement effect",
+      "effectNarrative": "This is the valuation decision; no direct statement effect. Effect: profit EUR0, cash EUR0, total assets EUR0, liabilities EUR0, and equity EUR0."
     }
   ],
   "schemaVersion": "1.0",
@@ -1757,9 +1807,9 @@
     }
   ],
   "uncertainties": [
-    "Insurance balance is reconciled: EUR12,000 opening prepaid, EUR4,000 expense and EUR8,000 closing prepaid.",
-    "Inventory roll-forward agrees at EUR405,000 materials COGS and EUR112,000 closing inventory.",
-    "Opening equity is EUR182,000 and rolls forward to EUR133,000 after EUR61,000 net profit and EUR110,000 owner distributions."
+    "Inventory evidence conflict remains disclosed: the physical-count evidence supports EUR121,000 closing good inventory, while the supplied inventory roll-forward reconstructs EUR112,000 (EUR9,000 difference).",
+    "Insurance figures of EUR12,000 opening prepaid, EUR4,000 expense and EUR8,000 closing prepaid are instructor-supplied correction inputs, not amounts supported by the original evidence pack.",
+    "Opening-balance support is incomplete; the instructor-supplied EUR182,000 opening equity is used and bridges to EUR133,000 after EUR61,000 net profit and EUR110,000 owner distributions."
   ],
   "boardRecommendation": {
     "recommendation": "Approve corrected accounts only with the two reconciliation items disclosed and investigated. Do not use management profit for earn-out or valuation. Freeze owner-card access, reclassify deposits and borrowing, record provisions/write-offs, and implement weekly cash forecasting."
