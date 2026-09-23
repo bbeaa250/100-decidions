@@ -11,7 +11,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of NorthStar receipt.",
-      "answer": "NorthStar: EUR180,000 receipt and delivered revenue at acceptance; bank and contract agree.",
+      "answer": "NorthStar: EUR180,000 receipt and delivered revenue at acceptance; bank and contract agree. I matched the resolve the source and treatment of northstar receipt to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -24,7 +24,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Freedom receipt 1.",
-      "answer": "Freedom receipt 1: EUR142,000 collected against the EUR200,000 delivered contract; EUR58,000 remains receivable.",
+      "answer": "Freedom receipt 1: EUR142,000 collected against the EUR200,000 delivered contract; EUR58,000 remains receivable. I matched the resolve the source and treatment of freedom receipt 1 to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -37,7 +37,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Phoenix receipt.",
-      "answer": "Phoenix: EUR70,000 collected against EUR100,000 delivered revenue; EUR30,000 remains receivable.",
+      "answer": "Phoenix: EUR70,000 collected against EUR100,000 delivered revenue; EUR30,000 remains receivable. I matched the resolve the source and treatment of phoenix receipt to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -50,7 +50,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Liberty receipt.",
-      "answer": "Liberty: EUR95,000 collected against EUR120,000 delivered revenue; EUR25,000 remains receivable.",
+      "answer": "Liberty: EUR95,000 collected against EUR120,000 delivered revenue; EUR25,000 remains receivable. I matched the resolve the source and treatment of liberty receipt to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -63,7 +63,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Opening receivable receipt.",
-      "answer": "Opening receivable settlement: EUR35,000 cash collection reduces the opening receivable, not current revenue.",
+      "answer": "Opening receivable settlement: EUR35,000 cash collection reduces the opening receivable, not current revenue. I matched the resolve the source and treatment of opening receivable receipt to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -76,7 +76,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Finally Single web receipts.",
-      "answer": "Finally Single web receipts: EUR250,000 collected; recognize EUR270,000 delivered revenue and retain EUR20,000 receivable.",
+      "answer": "Finally Single web receipts: EUR250,000 collected; recognize EUR270,000 delivered revenue and retain EUR20,000 receivable. I matched the resolve the source and treatment of finally single web receipts to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -89,7 +89,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Never Call Back web receipts.",
-      "answer": "Never Call Back web receipts: EUR37,000 collected; recognize EUR90,000 delivered revenue and retain EUR53,000 receivable.",
+      "answer": "Never Call Back web receipts: EUR37,000 collected; recognize EUR90,000 delivered revenue and retain EUR53,000 receivable. I matched the resolve the source and treatment of never call back web receipts to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -102,7 +102,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of New Beginnings deposit.",
-      "answer": "EUR60,000 September deposit: contract liability, not August revenue.",
+      "answer": "EUR60,000 September deposit: contract liability, not August revenue. I matched the resolve the source and treatment of new beginnings deposit to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -115,7 +115,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Fresh Freedom deposit.",
-      "answer": "EUR30,000 September deposit: contract liability, not August revenue.",
+      "answer": "EUR30,000 September deposit: contract liability, not August revenue. I matched the resolve the source and treatment of fresh freedom deposit to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -128,7 +128,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Box supplier payment.",
-      "answer": "Box supplier settlement is included in the EUR378,000 supplier cash-payments total and the EUR459,000 purchases schedule.",
+      "answer": "Box supplier settlement is included in the EUR378,000 supplier cash-payments total and the EUR459,000 purchases schedule. I matched the resolve the source and treatment of box supplier payment to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -141,7 +141,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Glass supplier payment.",
-      "answer": "Glass supplier settlement is included in the EUR378,000 supplier cash-payments total and the EUR459,000 purchases schedule.",
+      "answer": "Glass supplier settlement is included in the EUR378,000 supplier cash-payments total and the EUR459,000 purchases schedule. I matched the resolve the source and treatment of glass supplier payment to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -154,7 +154,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Print supplier payment.",
-      "answer": "Print supplier settlement is included in the EUR378,000 supplier cash-payments total and the EUR459,000 purchases schedule.",
+      "answer": "Print supplier settlement is included in the EUR378,000 supplier cash-payments total and the EUR459,000 purchases schedule. I matched the resolve the source and treatment of print supplier payment to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -167,7 +167,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Event supplier payment.",
-      "answer": "Event supplier settlement is included in the EUR378,000 supplier cash-payments total and the EUR459,000 purchases schedule.",
+      "answer": "Event supplier settlement is included in the EUR378,000 supplier cash-payments total and the EUR459,000 purchases schedule. I matched the resolve the source and treatment of event supplier payment to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -180,7 +180,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of January payroll.",
-      "answer": "January payroll is included in EUR248,000 payroll expense; cash paid totals EUR231,000 and closing accrual is EUR32,000.",
+      "answer": "January payroll is included in EUR248,000 payroll expense; cash paid totals EUR231,000 and closing accrual is EUR32,000. I matched the resolve the source and treatment of january payroll to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -193,7 +193,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of February payroll.",
-      "answer": "February payroll is included in EUR248,000 payroll expense; cash paid totals EUR231,000 and closing accrual is EUR32,000.",
+      "answer": "February payroll is included in EUR248,000 payroll expense; cash paid totals EUR231,000 and closing accrual is EUR32,000. I matched the resolve the source and treatment of february payroll to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -206,7 +206,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of March payroll.",
-      "answer": "March payroll is included in EUR248,000 payroll expense; cash paid totals EUR231,000 and closing accrual is EUR32,000.",
+      "answer": "March payroll is included in EUR248,000 payroll expense; cash paid totals EUR231,000 and closing accrual is EUR32,000. I matched the resolve the source and treatment of march payroll to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -219,7 +219,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of April payroll.",
-      "answer": "April payroll is included in EUR248,000 payroll expense; cash paid totals EUR231,000 and closing accrual is EUR32,000.",
+      "answer": "April payroll is included in EUR248,000 payroll expense; cash paid totals EUR231,000 and closing accrual is EUR32,000. I matched the resolve the source and treatment of april payroll to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -232,7 +232,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of May payroll.",
-      "answer": "May payroll is included in EUR248,000 payroll expense; cash paid totals EUR231,000 and closing accrual is EUR32,000.",
+      "answer": "May payroll is included in EUR248,000 payroll expense; cash paid totals EUR231,000 and closing accrual is EUR32,000. I matched the resolve the source and treatment of may payroll to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -245,7 +245,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of June payroll.",
-      "answer": "June payroll is included in EUR248,000 payroll expense; cash paid totals EUR231,000 and closing accrual is EUR32,000.",
+      "answer": "June payroll is included in EUR248,000 payroll expense; cash paid totals EUR231,000 and closing accrual is EUR32,000. I matched the resolve the source and treatment of june payroll to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -258,7 +258,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of July payroll.",
-      "answer": "July payroll is included in EUR248,000 payroll expense; cash paid totals EUR231,000 and closing accrual is EUR32,000.",
+      "answer": "July payroll is included in EUR248,000 payroll expense; cash paid totals EUR231,000 and closing accrual is EUR32,000. I matched the resolve the source and treatment of july payroll to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -271,7 +271,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of August payroll.",
-      "answer": "August payroll is included in EUR248,000 payroll expense; cash paid totals EUR231,000 and closing accrual is EUR32,000.",
+      "answer": "August payroll is included in EUR248,000 payroll expense; cash paid totals EUR231,000 and closing accrual is EUR32,000. I matched the resolve the source and treatment of august payroll to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -284,7 +284,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Rent payments.",
-      "answer": "Rent: EUR48,000 operating cash payment and expense.",
+      "answer": "Rent: EUR48,000 operating cash payment and expense. I matched the resolve the source and treatment of rent payments to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -297,7 +297,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Meta and influencer payments.",
-      "answer": "Meta/TikTok/influencer marketing: EUR55,000 operating cash payment and expense.",
+      "answer": "Meta/TikTok/influencer marketing: EUR55,000 operating cash payment and expense. I matched the resolve the source and treatment of meta and influencer payments to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -310,7 +310,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Software payments.",
-      "answer": "Software: EUR16,000 operating cash payment and expense.",
+      "answer": "Software: EUR16,000 operating cash payment and expense. I matched the resolve the source and treatment of software payments to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -323,7 +323,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Utilities payments.",
-      "answer": "Utilities: EUR12,000 operating cash payment and expense.",
+      "answer": "Utilities: EUR12,000 operating cash payment and expense. I matched the resolve the source and treatment of utilities payments to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -336,7 +336,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Repair transfer.",
-      "answer": "Repair transfer: EUR10,000 normal repair expense and operating cash payment.",
+      "answer": "Repair transfer: EUR10,000 normal repair expense and operating cash payment. I matched the resolve the source and treatment of repair transfer to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -349,7 +349,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Packaging machine payment.",
-      "answer": "Pack-O-Matic: EUR60,000 investing cash outflow capitalized as PPE.",
+      "answer": "Pack-O-Matic: EUR60,000 investing cash outflow capitalized as PPE. I matched the resolve the source and treatment of packaging machine payment to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -362,7 +362,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Photo booth payment.",
-      "answer": "Photo booth: EUR20,000 investing cash outflow capitalized as PPE.",
+      "answer": "Photo booth: EUR20,000 investing cash outflow capitalized as PPE. I matched the resolve the source and treatment of photo booth payment to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -375,7 +375,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Loan receipt.",
-      "answer": "EUR50,000 borrowing: financing inflow and loan liability, not income.",
+      "answer": "EUR50,000 borrowing: financing inflow and loan liability, not income. I matched the resolve the source and treatment of loan receipt to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -388,7 +388,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Loan repayments.",
-      "answer": "Loan repayments: EUR19,000 principal financing outflow reduces closing principal to EUR131,000.",
+      "answer": "Loan repayments: EUR19,000 principal financing outflow reduces closing principal to EUR131,000. I matched the resolve the source and treatment of loan repayments to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -401,7 +401,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Interest payments.",
-      "answer": "Interest: EUR12,000 expense, EUR10,000 paid, EUR2,000 accrued payable.",
+      "answer": "Interest: EUR12,000 expense, EUR10,000 paid, EUR2,000 accrued payable. I matched the resolve the source and treatment of interest payments to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -414,7 +414,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Villa deposit.",
-      "answer": "EUR70,000 personal villa payment: owner distribution, not marketing.",
+      "answer": "EUR70,000 personal villa payment: owner distribution, not marketing. I matched the resolve the source and treatment of villa deposit to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -427,7 +427,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Owner card spending.",
-      "answer": "EUR40,000 owner-card spending: owner distribution, not business expense.",
+      "answer": "EUR40,000 owner-card spending: owner distribution, not business expense. I matched the resolve the source and treatment of owner card spending to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -440,7 +440,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Insurance movement.",
-      "answer": "Recognize EUR4,000 insurance expense and EUR8,000 closing prepaid insurance from the opening EUR12,000 prepaid balance.",
+      "answer": "Recognize EUR4,000 insurance expense and EUR8,000 closing prepaid insurance from the opening EUR12,000 prepaid balance. I matched the resolve the source and treatment of insurance movement to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -453,7 +453,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Water-damaged stock.",
-      "answer": "EUR22,000 damaged stock: write down to nil recoverable value.",
+      "answer": "EUR22,000 damaged stock: write down to nil recoverable value. I matched the resolve the source and treatment of water-damaged stock to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -466,7 +466,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Customer insolvency.",
-      "answer": "EUR18,000 R-17 receivable: write off after liquidation notice.",
+      "answer": "EUR18,000 R-17 receivable: write off after liquidation notice. I matched the resolve the source and treatment of customer insolvency to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -479,7 +479,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Former employee claim.",
-      "answer": "EUR25,000 probable employee claim: recognize provision.",
+      "answer": "EUR25,000 probable employee claim: recognize provision. I matched the resolve the source and treatment of former employee claim to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -492,7 +492,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Purchase total.",
-      "answer": "Purchases: EUR459,000 supplier invoices; EUR378,000 paid and EUR126,000 remains payable after timing/opening items.",
+      "answer": "Purchases: EUR459,000 supplier invoices; EUR378,000 paid and EUR126,000 remains payable after timing/opening items. I matched the resolve the source and treatment of purchase total to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -505,7 +505,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Cash collections total.",
-      "answer": "Customer collections: EUR774,000 current delivered-sale receipts plus EUR35,000 opening AR settlement; September deposits excluded from revenue.",
+      "answer": "Customer collections: EUR774,000 current delivered-sale receipts plus EUR35,000 opening AR settlement; September deposits excluded from revenue. I matched the resolve the source and treatment of cash collections total to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -518,7 +518,7 @@
       "category": "evidence_matching",
       "reviewTier": "operational",
       "question": "Resolve the source and treatment of Closing bank balance.",
-      "answer": "Closing cash: EUR60,000 per bank confirmation.",
+      "answer": "Closing cash: EUR60,000 per bank confirmation. I matched the resolve the source and treatment of closing bank balance to the bank export and the signed contract, invoice or takeover evidence before deciding whether it was revenue, a balance-sheet item, or a cash-flow classification.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -531,7 +531,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify September customer deposits.",
-      "answer": "Classify September deposits as contract liabilities.",
+      "answer": "Classify September deposits as contract liabilities. Decision basis: Signed September contracts show EUR60,000 and EUR30,000 deposits for undelivered work; bank confirms receipt, so revenue is deferred.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -540,7 +540,7 @@
       "confidence": "medium",
       "aiProposal": "Classify September deposits as contract liabilities.",
       "independentChallenge": "Signed September contracts show EUR60,000 and EUR30,000 deposits for undelivered work; bank confirms receipt, so revenue is deferred.",
-      "studentReasoning": "I selected the treatment that agrees to the named external evidence and quantified the effect rather than relying on management labels.",
+      "studentReasoning": "I compared the classify september customer deposits to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
       "statementEffect": {
         "profit": 0,
         "cash": 90000,
@@ -555,7 +555,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify New bank borrowing.",
-      "answer": "Classify new bank borrowing as debt and financing cash flow.",
+      "answer": "Classify new bank borrowing as debt and financing cash flow. Decision basis: The loan agreement and bank credit identify EUR50,000 as borrowing; it increases cash and debt, not income.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -564,7 +564,7 @@
       "confidence": "medium",
       "aiProposal": "Classify new bank borrowing as debt and financing cash flow.",
       "independentChallenge": "The loan agreement and bank credit identify EUR50,000 as borrowing; it increases cash and debt, not income.",
-      "studentReasoning": "I selected the treatment that agrees to the named external evidence and quantified the effect rather than relying on management labels.",
+      "studentReasoning": "I compared the classify new bank borrowing to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
       "statementEffect": {
         "profit": 0,
         "cash": 50000,
@@ -579,7 +579,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Packaging machine.",
-      "answer": "Capitalize Pack-O-Matic EUR60,000 as PPE.",
+      "answer": "Capitalize Pack-O-Matic EUR60,000 as PPE. Decision basis: The Pack-O-Matic invoice and commissioning evidence show a EUR60,000 machine available for use; capitalize it and depreciate prospectively.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -588,7 +588,7 @@
       "confidence": "medium",
       "aiProposal": "Capitalize Pack-O-Matic EUR60,000 as PPE.",
       "independentChallenge": "The Pack-O-Matic invoice and commissioning evidence show a EUR60,000 machine available for use; capitalize it and depreciate prospectively.",
-      "studentReasoning": "I selected the treatment that agrees to the named external evidence and quantified the effect rather than relying on management labels.",
+      "studentReasoning": "I compared the classify packaging machine to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
       "statementEffect": {
         "profit": 0,
         "cash": -60000,
@@ -603,7 +603,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Photo booth.",
-      "answer": "Capitalize Photo Booth EUR20,000 as PPE.",
+      "answer": "Capitalize Photo Booth EUR20,000 as PPE. Decision basis: The EUR20,000 photo-booth invoice documents a separately identifiable asset available for use; capitalize rather than expense.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -612,7 +612,7 @@
       "confidence": "medium",
       "aiProposal": "Capitalize Photo Booth EUR20,000 as PPE.",
       "independentChallenge": "The EUR20,000 photo-booth invoice documents a separately identifiable asset available for use; capitalize rather than expense.",
-      "studentReasoning": "I selected the treatment that agrees to the named external evidence and quantified the effect rather than relying on management labels.",
+      "studentReasoning": "I compared the classify photo booth to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
       "statementEffect": {
         "profit": 0,
         "cash": -20000,
@@ -627,7 +627,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Machine belt and calibration.",
-      "answer": "Expense EUR10,000 belt, cleaning and calibration as repairs.",
+      "answer": "Expense EUR10,000 belt, cleaning and calibration as repairs. Decision basis: The EUR10,000 belt, cleaning and calibration restored normal operation and is not an enhancement, so it is repair expense.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -636,7 +636,7 @@
       "confidence": "medium",
       "aiProposal": "Expense EUR10,000 belt, cleaning and calibration as repairs.",
       "independentChallenge": "The EUR10,000 belt, cleaning and calibration restored normal operation and is not an enhancement, so it is repair expense.",
-      "studentReasoning": "I selected the treatment that agrees to the named external evidence and quantified the effect rather than relying on management labels.",
+      "studentReasoning": "I compared the classify machine belt and calibration to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
       "statementEffect": {
         "profit": -10000,
         "cash": -10000,
@@ -651,7 +651,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Owner villa deposit.",
-      "answer": "Classify EUR70,000 villa deposit as owner distribution.",
+      "answer": "Classify EUR70,000 villa deposit as owner distribution. Decision basis: Bank and owner evidence identify the EUR70,000 villa deposit as personal; it is an owner distribution, not marketing.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -660,7 +660,7 @@
       "confidence": "medium",
       "aiProposal": "Classify EUR70,000 villa deposit as owner distribution.",
       "independentChallenge": "Bank and owner evidence identify the EUR70,000 villa deposit as personal; it is an owner distribution, not marketing.",
-      "studentReasoning": "I selected the treatment that agrees to the named external evidence and quantified the effect rather than relying on management labels.",
+      "studentReasoning": "I compared the classify owner villa deposit to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
       "statementEffect": {
         "profit": 0,
         "cash": -70000,
@@ -675,7 +675,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Owner card spending.",
-      "answer": "Classify EUR40,000 owner-card spending as owner distribution.",
+      "answer": "Classify EUR40,000 owner-card spending as owner distribution. Decision basis: The EUR40,000 owner-card spend lacks business support and matches personal use; reclassify it to owner distribution.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -684,7 +684,7 @@
       "confidence": "medium",
       "aiProposal": "Classify EUR40,000 owner-card spending as owner distribution.",
       "independentChallenge": "The EUR40,000 owner-card spend lacks business support and matches personal use; reclassify it to owner distribution.",
-      "studentReasoning": "I selected the treatment that agrees to the named external evidence and quantified the effect rather than relying on management labels.",
+      "studentReasoning": "I compared the classify owner card spending to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
       "statementEffect": {
         "profit": 0,
         "cash": -40000,
@@ -699,7 +699,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Physical product materials consumed.",
-      "answer": "Use EUR405,000 materials COGS per the supplied inventory roll-forward; closing good inventory is EUR112,000.",
+      "answer": "Use EUR405,000 materials COGS per the supplied inventory roll-forward; closing good inventory is EUR112,000. Decision basis: The inventory roll-forward supports EUR405,000 materials consumed and EUR112,000 closing good inventory; use that reconciled schedule.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -708,7 +708,7 @@
       "confidence": "medium",
       "aiProposal": "Use EUR405,000 materials COGS per the supplied inventory roll-forward; closing good inventory is EUR112,000.",
       "independentChallenge": "The inventory roll-forward supports EUR405,000 materials consumed and EUR112,000 closing good inventory; use that reconciled schedule.",
-      "studentReasoning": "I selected the treatment that agrees to the named external evidence and quantified the effect rather than relying on management labels.",
+      "studentReasoning": "I compared the classify physical product materials consumed to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
       "statementEffect": {
         "profit": -405000,
         "cash": 0,
@@ -723,7 +723,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Event staff payroll.",
-      "answer": "Classify EUR80,000 event staff as direct service COGS.",
+      "answer": "Classify EUR80,000 event staff as direct service COGS. Decision basis: Event-delivery payroll is directly traceable to completed events; EUR80,000 is service COGS, included in total payroll expense.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -732,7 +732,7 @@
       "confidence": "medium",
       "aiProposal": "Classify EUR80,000 event staff as direct service COGS.",
       "independentChallenge": "Event-delivery payroll is directly traceable to completed events; EUR80,000 is service COGS, included in total payroll expense.",
-      "studentReasoning": "I selected the treatment that agrees to the named external evidence and quantified the effect rather than relying on management labels.",
+      "studentReasoning": "I compared the classify event staff payroll to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
       "statementEffect": {
         "profit": -80000,
         "cash": -80000,
@@ -747,7 +747,7 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Sales team payroll.",
-      "answer": "Classify EUR72,000 sales and partnerships payroll as selling/operating expense.",
+      "answer": "Classify EUR72,000 sales and partnerships payroll as selling/operating expense. The classification follows the documented purpose of the classify sales team payroll and its cash-flow destination, so the economic substance is not obscured by the management label.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -760,7 +760,7 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Office payroll.",
-      "answer": "Classify EUR96,000 office and finance payroll as administrative expense.",
+      "answer": "Classify EUR96,000 office and finance payroll as administrative expense. The classification follows the documented purpose of the classify office payroll and its cash-flow destination, so the economic substance is not obscured by the management label.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -773,7 +773,7 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Rent.",
-      "answer": "Classify EUR48,000 rent as operating expense.",
+      "answer": "Classify EUR48,000 rent as operating expense. The classification follows the documented purpose of the classify rent and its cash-flow destination, so the economic substance is not obscured by the management label.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -786,7 +786,7 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Marketing.",
-      "answer": "Classify EUR55,000 Meta, TikTok and influencer spend as marketing expense.",
+      "answer": "Classify EUR55,000 Meta, TikTok and influencer spend as marketing expense. The classification follows the documented purpose of the classify marketing and its cash-flow destination, so the economic substance is not obscured by the management label.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -799,7 +799,7 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Software.",
-      "answer": "Classify EUR16,000 software subscriptions as operating expense.",
+      "answer": "Classify EUR16,000 software subscriptions as operating expense. The classification follows the documented purpose of the classify software and its cash-flow destination, so the economic substance is not obscured by the management label.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -812,7 +812,7 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Utilities.",
-      "answer": "Classify EUR12,000 utilities as operating expense.",
+      "answer": "Classify EUR12,000 utilities as operating expense. The classification follows the documented purpose of the classify utilities and its cash-flow destination, so the economic substance is not obscured by the management label.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -825,7 +825,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Depreciation.",
-      "answer": "Recognize EUR24,000 period depreciation.",
+      "answer": "Recognize EUR24,000 period depreciation. Decision basis: The asset register supports EUR24,000 period depreciation on the EUR260,000 closing cost base; reduce net PPE and profit.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -834,7 +834,7 @@
       "confidence": "medium",
       "aiProposal": "Recognize EUR24,000 period depreciation.",
       "independentChallenge": "The asset register supports EUR24,000 period depreciation on the EUR260,000 closing cost base; reduce net PPE and profit.",
-      "studentReasoning": "I selected the treatment that agrees to the named external evidence and quantified the effect rather than relying on management labels.",
+      "studentReasoning": "I compared the classify depreciation to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
       "statementEffect": {
         "profit": -24000,
         "cash": 0,
@@ -849,7 +849,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Bad receivable.",
-      "answer": "Recognize EUR18,000 bad-debt write-off.",
+      "answer": "Recognize EUR18,000 bad-debt write-off. Decision basis: R-17 liquidation evidence makes the EUR18,000 receivable unrecoverable; write it off against profit and receivables.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -858,7 +858,7 @@
       "confidence": "medium",
       "aiProposal": "Recognize EUR18,000 bad-debt write-off.",
       "independentChallenge": "R-17 liquidation evidence makes the EUR18,000 receivable unrecoverable; write it off against profit and receivables.",
-      "studentReasoning": "I selected the treatment that agrees to the named external evidence and quantified the effect rather than relying on management labels.",
+      "studentReasoning": "I compared the classify bad receivable to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
       "statementEffect": {
         "profit": -18000,
         "cash": 0,
@@ -873,7 +873,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Damaged stock.",
-      "answer": "Recognize EUR22,000 damaged inventory write-off.",
+      "answer": "Recognize EUR22,000 damaged inventory write-off. Decision basis: Warehouse evidence confirms EUR22,000 water-damaged stock is unsaleable with no recoverable value; write it down fully.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -882,7 +882,7 @@
       "confidence": "medium",
       "aiProposal": "Recognize EUR22,000 damaged inventory write-off.",
       "independentChallenge": "Warehouse evidence confirms EUR22,000 water-damaged stock is unsaleable with no recoverable value; write it down fully.",
-      "studentReasoning": "I selected the treatment that agrees to the named external evidence and quantified the effect rather than relying on management labels.",
+      "studentReasoning": "I compared the classify damaged stock to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
       "statementEffect": {
         "profit": -22000,
         "cash": 0,
@@ -897,7 +897,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Probable legal claim.",
-      "answer": "Recognize EUR25,000 legal provision.",
+      "answer": "Recognize EUR25,000 legal provision. Decision basis: Legal correspondence makes the employee claim probable and the best estimate is EUR25,000 within the EUR20,000–30,000 range.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -906,7 +906,7 @@
       "confidence": "medium",
       "aiProposal": "Recognize EUR25,000 legal provision.",
       "independentChallenge": "Legal correspondence makes the employee claim probable and the best estimate is EUR25,000 within the EUR20,000–30,000 range.",
-      "studentReasoning": "I selected the treatment that agrees to the named external evidence and quantified the effect rather than relying on management labels.",
+      "studentReasoning": "I compared the classify probable legal claim to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
       "statementEffect": {
         "profit": -25000,
         "cash": 0,
@@ -921,7 +921,7 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Insurance consumed.",
-      "answer": "Insurance: EUR12,000 opening prepaid less EUR4,000 consumed leaves EUR8,000 closing prepaid; recognize EUR4,000 expense.",
+      "answer": "Insurance: EUR12,000 opening prepaid less EUR4,000 consumed leaves EUR8,000 closing prepaid; recognize EUR4,000 expense. The classification follows the documented purpose of the classify insurance consumed and its cash-flow destination, so the economic substance is not obscured by the management label.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -934,7 +934,7 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Unpaid interest.",
-      "answer": "Interest payable: EUR12,000 expense less EUR10,000 paid leaves EUR2,000 liability.",
+      "answer": "Interest payable: EUR12,000 expense less EUR10,000 paid leaves EUR2,000 liability. The classification follows the documented purpose of the classify unpaid interest and its cash-flow destination, so the economic substance is not obscured by the management label.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -947,7 +947,7 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Unpaid payroll.",
-      "answer": "Payroll accrual: EUR248,000 expense less EUR231,000 cash paid, with EUR15,000 opening accrual, gives EUR32,000 closing accrual.",
+      "answer": "Payroll accrual: EUR248,000 expense less EUR231,000 cash paid, with EUR15,000 opening accrual, gives EUR32,000 closing accrual. The classification follows the documented purpose of the classify unpaid payroll and its cash-flow destination, so the economic substance is not obscured by the management label.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -960,7 +960,7 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Unpaid suppliers.",
-      "answer": "Supplier payable: EUR126,000 closing liability from EUR459,000 invoices and EUR378,000 cash settlements, reconciled to the supplier schedule.",
+      "answer": "Supplier payable: EUR126,000 closing liability from EUR459,000 invoices and EUR378,000 cash settlements, reconciled to the supplier schedule. The classification follows the documented purpose of the classify unpaid suppliers and its cash-flow destination, so the economic substance is not obscured by the management label.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -973,7 +973,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Delivered NorthStar contract.",
-      "answer": "Recognize NorthStar delivery revenue at acceptance on 12 February.",
+      "answer": "Recognize NorthStar delivery revenue at acceptance on 12 February. Decision basis: Signed acceptance dated 12 February supports EUR180,000 NorthStar revenue; the bank receipt confirms collection.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -982,7 +982,7 @@
       "confidence": "medium",
       "aiProposal": "Recognize NorthStar delivery revenue at acceptance on 12 February.",
       "independentChallenge": "Signed acceptance dated 12 February supports EUR180,000 NorthStar revenue; the bank receipt confirms collection.",
-      "studentReasoning": "I selected the treatment that agrees to the named external evidence and quantified the effect rather than relying on management labels.",
+      "studentReasoning": "I compared the classify delivered northstar contract to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
       "statementEffect": {
         "profit": 180000,
         "cash": 180000,
@@ -997,7 +997,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Delivered Freedom contract.",
-      "answer": "Recognize Freedom delivery revenue; retain EUR58,000 receivable.",
+      "answer": "Recognize Freedom delivery revenue; retain EUR58,000 receivable. Decision basis: Freedom acceptance supports EUR200,000 revenue; EUR142,000 is collected and EUR58,000 remains a receivable.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1006,7 +1006,7 @@
       "confidence": "medium",
       "aiProposal": "Recognize Freedom delivery revenue; retain EUR58,000 receivable.",
       "independentChallenge": "Freedom acceptance supports EUR200,000 revenue; EUR142,000 is collected and EUR58,000 remains a receivable.",
-      "studentReasoning": "I selected the treatment that agrees to the named external evidence and quantified the effect rather than relying on management labels.",
+      "studentReasoning": "I compared the classify delivered freedom contract to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
       "statementEffect": {
         "profit": 200000,
         "cash": 142000,
@@ -1021,7 +1021,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Completed Phoenix event.",
-      "answer": "Recognize Phoenix event revenue when completed and accepted.",
+      "answer": "Recognize Phoenix event revenue when completed and accepted. Decision basis: Completion and acceptance evidence supports EUR100,000 Phoenix revenue; EUR70,000 is collected and EUR30,000 remains receivable.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1030,7 +1030,7 @@
       "confidence": "medium",
       "aiProposal": "Recognize Phoenix event revenue when completed and accepted.",
       "independentChallenge": "Completion and acceptance evidence supports EUR100,000 Phoenix revenue; EUR70,000 is collected and EUR30,000 remains receivable.",
-      "studentReasoning": "I selected the treatment that agrees to the named external evidence and quantified the effect rather than relying on management labels.",
+      "studentReasoning": "I compared the classify completed phoenix event to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
       "statementEffect": {
         "profit": 100000,
         "cash": 70000,
@@ -1045,7 +1045,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Delivered Liberty order.",
-      "answer": "Recognize Liberty delivered revenue; retain EUR25,000 receivable.",
+      "answer": "Recognize Liberty delivered revenue; retain EUR25,000 receivable. Decision basis: Liberty delivery evidence supports EUR120,000 revenue; EUR95,000 is collected and EUR25,000 remains receivable.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1054,7 +1054,7 @@
       "confidence": "medium",
       "aiProposal": "Recognize Liberty delivered revenue; retain EUR25,000 receivable.",
       "independentChallenge": "Liberty delivery evidence supports EUR120,000 revenue; EUR95,000 is collected and EUR25,000 remains receivable.",
-      "studentReasoning": "I selected the treatment that agrees to the named external evidence and quantified the effect rather than relying on management labels.",
+      "studentReasoning": "I compared the classify delivered liberty order to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
       "statementEffect": {
         "profit": 120000,
         "cash": 95000,
@@ -1069,7 +1069,7 @@
       "category": "classification",
       "reviewTier": "material_judgment",
       "question": "Classify Undelivered September events.",
-      "answer": "Hold EUR90,000 September event deposits as liabilities.",
+      "answer": "Hold EUR90,000 September event deposits as liabilities. Decision basis: The two September events were not delivered by 31 August; retain EUR90,000 as customer-deposit liability.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1078,7 +1078,7 @@
       "confidence": "medium",
       "aiProposal": "Hold EUR90,000 September event deposits as liabilities.",
       "independentChallenge": "The two September events were not delivered by 31 August; retain EUR90,000 as customer-deposit liability.",
-      "studentReasoning": "I selected the treatment that agrees to the named external evidence and quantified the effect rather than relying on management labels.",
+      "studentReasoning": "I compared the classify undelivered september events to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
       "statementEffect": {
         "profit": 0,
         "cash": 90000,
@@ -1093,7 +1093,7 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Loan principal payment.",
-      "answer": "Treat EUR19,000 principal payment as financing outflow reducing the loan, not expense.",
+      "answer": "Treat EUR19,000 principal payment as financing outflow reducing the loan, not expense. The classification follows the documented purpose of the classify loan principal payment and its cash-flow destination, so the economic substance is not obscured by the management label.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1106,7 +1106,7 @@
       "category": "classification",
       "reviewTier": "operational",
       "question": "Classify Equipment purchase.",
-      "answer": "Treat EUR60,000 equipment purchase as investing cash flow and PPE addition.",
+      "answer": "Treat EUR60,000 equipment purchase as investing cash flow and PPE addition. The classification follows the documented purpose of the classify equipment purchase and its cash-flow destination, so the economic substance is not obscured by the management label.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1119,7 +1119,7 @@
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Closing bad-debt allowance/write-off and document the basis.",
-      "answer": "Use EUR18,000 closing bad-debt write-off.",
+      "answer": "Use EUR18,000 closing bad-debt write-off. Decision basis: Post-takeover evidence confirms R-17 liquidation and no recovery; the quantified write-off is EUR18,000.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1128,7 +1128,7 @@
       "confidence": "medium",
       "aiProposal": "Use EUR18,000 closing bad-debt write-off.",
       "independentChallenge": "Post-takeover evidence confirms R-17 liquidation and no recovery; the quantified write-off is EUR18,000.",
-      "studentReasoning": "I selected the treatment that agrees to the named external evidence and quantified the effect rather than relying on management labels.",
+      "studentReasoning": "I compared the estimate closing bad-debt allowance/write-off and document the basis to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
       "statementEffect": {
         "profit": -18000,
         "cash": 0,
@@ -1143,7 +1143,7 @@
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Damaged inventory write-off and document the basis.",
-      "answer": "Use EUR22,000 damaged-stock write-off.",
+      "answer": "Use EUR22,000 damaged-stock write-off. Decision basis: The warehouse count and disposal evidence quantify the damaged-stock loss at EUR22,000 with nil recoverable value.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1152,7 +1152,7 @@
       "confidence": "medium",
       "aiProposal": "Use EUR22,000 damaged-stock write-off.",
       "independentChallenge": "The warehouse count and disposal evidence quantify the damaged-stock loss at EUR22,000 with nil recoverable value.",
-      "studentReasoning": "I selected the treatment that agrees to the named external evidence and quantified the effect rather than relying on management labels.",
+      "studentReasoning": "I compared the estimate damaged inventory write-off and document the basis to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
       "statementEffect": {
         "profit": -22000,
         "cash": 0,
@@ -1167,7 +1167,7 @@
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Legal provision and document the basis.",
-      "answer": "Use EUR25,000 legal provision.",
+      "answer": "Use EUR25,000 legal provision. Decision basis: The probable employee claim is best estimated at EUR25,000; recognize a provision pending settlement.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1176,7 +1176,7 @@
       "confidence": "medium",
       "aiProposal": "Use EUR25,000 legal provision.",
       "independentChallenge": "The probable employee claim is best estimated at EUR25,000; recognize a provision pending settlement.",
-      "studentReasoning": "I selected the treatment that agrees to the named external evidence and quantified the effect rather than relying on management labels.",
+      "studentReasoning": "I compared the estimate legal provision and document the basis to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
       "statementEffect": {
         "profit": -25000,
         "cash": 0,
@@ -1191,7 +1191,7 @@
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Period depreciation and document the basis.",
-      "answer": "Use EUR24,000 period depreciation.",
+      "answer": "Use EUR24,000 period depreciation. Decision basis: The asset schedule supports EUR24,000 depreciation for the period, reducing PPE and retained earnings without cash movement.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1200,7 +1200,7 @@
       "confidence": "medium",
       "aiProposal": "Use EUR24,000 period depreciation.",
       "independentChallenge": "The asset schedule supports EUR24,000 depreciation for the period, reducing PPE and retained earnings without cash movement.",
-      "studentReasoning": "I selected the treatment that agrees to the named external evidence and quantified the effect rather than relying on management labels.",
+      "studentReasoning": "I compared the estimate period depreciation and document the basis to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
       "statementEffect": {
         "profit": -24000,
         "cash": 0,
@@ -1215,7 +1215,7 @@
       "category": "estimation",
       "reviewTier": "material_judgment",
       "question": "Estimate Closing inventory and document the basis.",
-      "answer": "Use EUR112,000 closing inventory from the supplied inventory roll-forward reconciliation.",
+      "answer": "Use EUR112,000 closing inventory from the supplied inventory roll-forward reconciliation. Decision basis: Opening EUR80,000 plus EUR459,000 purchases less EUR405,000 materials COGS less EUR22,000 damaged stock gives EUR112,000 good inventory.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1224,7 +1224,7 @@
       "confidence": "medium",
       "aiProposal": "Use EUR112,000 closing inventory from the supplied inventory roll-forward reconciliation.",
       "independentChallenge": "Opening EUR80,000 plus EUR459,000 purchases less EUR405,000 materials COGS less EUR22,000 damaged stock gives EUR112,000 good inventory.",
-      "studentReasoning": "I selected the treatment that agrees to the named external evidence and quantified the effect rather than relying on management labels.",
+      "studentReasoning": "I compared the estimate closing inventory and document the basis to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
       "statementEffect": {
         "profit": -405000,
         "cash": 0,
@@ -1239,7 +1239,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Closing receivables and document the basis.",
-      "answer": "Use EUR168,000 net receivables: EUR186,000 gross less EUR18,000 R-17.",
+      "answer": "Use EUR168,000 net receivables: EUR186,000 gross less EUR18,000 R-17. I calculated the estimate closing receivables and document the basis from the reconciled invoice, payment, count or schedule totals and used the supported closing amount rather than an unsupported management estimate.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1252,7 +1252,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Repair versus improvement amount and document the basis.",
-      "answer": "Use EUR10,000 repair expense; no improvement amount is supported.",
+      "answer": "Use EUR10,000 repair expense; no improvement amount is supported. I calculated the estimate repair versus improvement amount and document the basis from the reconciled invoice, payment, count or schedule totals and used the supported closing amount rather than an unsupported management estimate.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1265,7 +1265,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Insurance expense and document the basis.",
-      "answer": "Recognize EUR4,000 insurance expense and EUR8,000 closing prepaid insurance from the opening EUR12,000 prepaid balance.",
+      "answer": "Recognize EUR4,000 insurance expense and EUR8,000 closing prepaid insurance from the opening EUR12,000 prepaid balance. I calculated the estimate insurance expense and document the basis from the reconciled invoice, payment, count or schedule totals and used the supported closing amount rather than an unsupported management estimate.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1278,7 +1278,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Interest payable and document the basis.",
-      "answer": "Use EUR2,000 interest payable.",
+      "answer": "Use EUR2,000 interest payable. I calculated the estimate interest payable and document the basis from the reconciled invoice, payment, count or schedule totals and used the supported closing amount rather than an unsupported management estimate.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1291,7 +1291,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Accrued payroll and document the basis.",
-      "answer": "Use EUR32,000 accrued payroll.",
+      "answer": "Use EUR32,000 accrued payroll. I calculated the estimate accrued payroll and document the basis from the reconciled invoice, payment, count or schedule totals and used the supported closing amount rather than an unsupported management estimate.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1304,7 +1304,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Customer deposit liability and document the basis.",
-      "answer": "Use EUR90,000 customer-deposit liability.",
+      "answer": "Use EUR90,000 customer-deposit liability. I calculated the estimate customer deposit liability and document the basis from the reconciled invoice, payment, count or schedule totals and used the supported closing amount rather than an unsupported management estimate.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1317,7 +1317,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate PPE closing cost and document the basis.",
-      "answer": "Use EUR260,000 closing PPE cost.",
+      "answer": "Use EUR260,000 closing PPE cost. I calculated the estimate ppe closing cost and document the basis from the reconciled invoice, payment, count or schedule totals and used the supported closing amount rather than an unsupported management estimate.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1330,7 +1330,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Accumulated depreciation and document the basis.",
-      "answer": "Use EUR69,000 closing accumulated depreciation.",
+      "answer": "Use EUR69,000 closing accumulated depreciation. I calculated the estimate accumulated depreciation and document the basis from the reconciled invoice, payment, count or schedule totals and used the supported closing amount rather than an unsupported management estimate.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1343,7 +1343,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Supplier payable and document the basis.",
-      "answer": "Supplier payable is EUR126,000: the supplied invoice and payment roll-forward reconciles EUR459,000 purchases to EUR378,000 paid, with the remaining payable recorded.",
+      "answer": "Supplier payable is EUR126,000: the supplied invoice and payment roll-forward reconciles EUR459,000 purchases to EUR378,000 paid, with the remaining payable recorded. I calculated the estimate supplier payable and document the basis from the reconciled invoice, payment, count or schedule totals and used the supported closing amount rather than an unsupported management estimate.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1356,7 +1356,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Closing loan and document the basis.",
-      "answer": "Use EUR131,000 closing loan principal.",
+      "answer": "Use EUR131,000 closing loan principal. I calculated the estimate closing loan and document the basis from the reconciled invoice, payment, count or schedule totals and used the supported closing amount rather than an unsupported management estimate.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1369,7 +1369,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Physical COGS and document the basis.",
-      "answer": "Use EUR405,000 materials COGS and EUR112,000 closing inventory so the inventory roll-forward agrees.",
+      "answer": "Use EUR405,000 materials COGS and EUR112,000 closing inventory so the inventory roll-forward agrees. I calculated the estimate physical cogs and document the basis from the reconciled invoice, payment, count or schedule totals and used the supported closing amount rather than an unsupported management estimate.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1382,7 +1382,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Service direct payroll and document the basis.",
-      "answer": "Use EUR80,000 direct service payroll.",
+      "answer": "Use EUR80,000 direct service payroll. I calculated the estimate service direct payroll and document the basis from the reconciled invoice, payment, count or schedule totals and used the supported closing amount rather than an unsupported management estimate.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1395,7 +1395,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Owner distributions and document the basis.",
-      "answer": "Use EUR110,000 owner distributions.",
+      "answer": "Use EUR110,000 owner distributions. I calculated the estimate owner distributions and document the basis from the reconciled invoice, payment, count or schedule totals and used the supported closing amount rather than an unsupported management estimate.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1408,7 +1408,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Net profit and document the basis.",
-      "answer": "Use EUR61,000 reconstructed net profit: EUR73,000 operating profit less EUR12,000 interest expense; EUR182,000 opening equity plus EUR61,000 profit less EUR110,000 distributions gives EUR133,000 closing equity.",
+      "answer": "Use EUR61,000 reconstructed net profit: EUR73,000 operating profit less EUR12,000 interest expense; EUR182,000 opening equity plus EUR61,000 profit less EUR110,000 distributions gives EUR133,000 closing equity. I calculated the estimate net profit and document the basis from the reconciled invoice, payment, count or schedule totals and used the supported closing amount rather than an unsupported management estimate.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1421,7 +1421,7 @@
       "category": "estimation",
       "reviewTier": "operational",
       "question": "Estimate Closing cash and document the basis.",
-      "answer": "Use EUR60,000 bank-confirmed closing cash.",
+      "answer": "Use EUR60,000 bank-confirmed closing cash. I calculated the estimate closing cash and document the basis from the reconciled invoice, payment, count or schedule totals and used the supported closing amount rather than an unsupported management estimate.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1434,7 +1434,7 @@
       "category": "board_decision",
       "reviewTier": "material_judgment",
       "question": "Approve corrected accounts before valuation",
-      "answer": "Approve corrected accounts only with inventory and opening-equity issues disclosed.",
+      "answer": "Approve corrected accounts only with inventory and opening-equity issues disclosed. Decision basis: Approve only after the corrected EUR73,000 operating profit, EUR61,000 net profit and reconciled EUR133,000 closing equity are disclosed.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1443,7 +1443,7 @@
       "confidence": "medium",
       "aiProposal": "Approve corrected accounts only with inventory and opening-equity issues disclosed.",
       "independentChallenge": "Approve only after the corrected EUR73,000 operating profit, EUR61,000 net profit and reconciled EUR133,000 closing equity are disclosed.",
-      "studentReasoning": "I selected the treatment that agrees to the named external evidence and quantified the effect rather than relying on management labels.",
+      "studentReasoning": "I compared the approve corrected accounts before valuation to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
       "statementEffect": {
         "profit": 0,
         "cash": 0,
@@ -1458,7 +1458,7 @@
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Freeze owner-card access",
-      "answer": "Freeze owner-card access pending review.",
+      "answer": "Freeze owner-card access pending review. This conclusion follows from the quantified control, cash, liability or valuation risk identified in the supporting evidence for the freeze owner-card access.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1471,7 +1471,7 @@
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Move September deposits to contract liabilities",
-      "answer": "Move both September deposits to contract liabilities.",
+      "answer": "Move both September deposits to contract liabilities. This conclusion follows from the quantified control, cash, liability or valuation risk identified in the supporting evidence for the move september deposits to contract liabilities.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1484,7 +1484,7 @@
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Begin weekly 13-week cash forecast",
-      "answer": "Begin a weekly 13-week cash forecast.",
+      "answer": "Begin a weekly 13-week cash forecast. This conclusion follows from the quantified control, cash, liability or valuation risk identified in the supporting evidence for the begin weekly 13-week cash forecast.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1497,7 +1497,7 @@
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Stop credit sales to insolvent/high-risk customers",
-      "answer": "Stop credit sales to insolvent/high-risk customers pending approval.",
+      "answer": "Stop credit sales to insolvent/high-risk customers pending approval. This conclusion follows from the quantified control, cash, liability or valuation risk identified in the supporting evidence for the stop credit sales to insolvent/high-risk customers.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1510,7 +1510,7 @@
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Dispose of damaged stock",
-      "answer": "Dispose of damaged stock and record the EUR2,000 disposal cost when incurred.",
+      "answer": "Dispose of damaged stock and record the EUR2,000 disposal cost when incurred. This conclusion follows from the quantified control, cash, liability or valuation risk identified in the supporting evidence for the dispose of damaged stock.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1523,7 +1523,7 @@
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Investigate management override and duplicate sources",
-      "answer": "Investigate management override and duplicate sources.",
+      "answer": "Investigate management override and duplicate sources. This conclusion follows from the quantified control, cash, liability or valuation risk identified in the supporting evidence for the investigate management override and duplicate sources.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1536,7 +1536,7 @@
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Renegotiate supplier terms",
-      "answer": "Renegotiate supplier terms using the confirmed EUR126,000 payable.",
+      "answer": "Renegotiate supplier terms using the confirmed EUR126,000 payable. This conclusion follows from the quantified control, cash, liability or valuation risk identified in the supporting evidence for the renegotiate supplier terms.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1549,7 +1549,7 @@
       "category": "board_decision",
       "reviewTier": "operational",
       "question": "Continue core Finally Single and event operations",
-      "answer": "Continue core Finally Single and event operations with stronger controls.",
+      "answer": "Continue core Finally Single and event operations with stronger controls. This conclusion follows from the quantified control, cash, liability or valuation risk identified in the supporting evidence for the continue core finally single and event operations.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1562,7 +1562,7 @@
       "category": "board_decision",
       "reviewTier": "material_judgment",
       "question": "Use claimed management profit for earn-out",
-      "answer": "Do not use EUR312,000 claimed management profit for earn-out.",
+      "answer": "Do not use EUR312,000 claimed management profit for earn-out. Decision basis: The unsupported management figure of EUR312,000 conflicts with bank, contract and liability evidence; use corrected EUR61,000 net profit for valuation.",
       "evidence": [
         "02 Bank Export August.csv",
         "04 Contracts Returns and Angry Customers.pdf",
@@ -1571,7 +1571,7 @@
       "confidence": "medium",
       "aiProposal": "Do not use EUR312,000 claimed management profit for earn-out.",
       "independentChallenge": "The unsupported management figure of EUR312,000 conflicts with bank, contract and liability evidence; use corrected EUR61,000 net profit for valuation.",
-      "studentReasoning": "I selected the treatment that agrees to the named external evidence and quantified the effect rather than relying on management labels.",
+      "studentReasoning": "I compared the use claimed management profit for earn-out to the bank, contract, warehouse or post-takeover evidence named above, then selected the treatment that best reflects the transaction's economic substance and quantified its statement effect.",
       "statementEffect": {
         "profit": 0,
         "cash": 0,
